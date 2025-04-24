@@ -1,6 +1,11 @@
 # 从零开始构建一个LLM推荐系统（基于Deepseek）
 
-## 项目目标
+## Overview
+
+This project focuses on building a movie recommendation system that utilizes a Large Language Model (LLM) for **re-ranking** movie suggestions based on user preferences. The system enhances traditional recommendation methods by integrating LLMs, such as GPT, to process users' historical ratings and preferences, providing more personalized and accurate recommendations.
+
+
+
 本项目旨在通过大语言模型（LLM）对电影推荐结果进行 **重排序（reranking）**，基于用户的历史喜好和评分，优化电影推荐的准确性和排序效果。
 
 ## 项目背景
