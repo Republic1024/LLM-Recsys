@@ -1013,11 +1013,3 @@ evaluate(user_id, ratings_test_pos, recs, k), evaluate(user_id, ratings_test_pos
 
 
 
-
-```python
-!jupyter nbconvert --to markdown llm_recs_2.ipynb
-```
-
-    [NbConvertApp] Converting notebook llm_recs_2.ipynb to markdown
-    [NbConvertApp] Writing 34187 bytes to llm_recs_2.md
-
